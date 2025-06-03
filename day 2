@@ -1,1 +1,25 @@
+1. Count Number of Homogenous Substrings => 
+. Topic = String
+. Approach/Algorithm = optimal approach (streak counting + math formula)
+                    formula = k(k+1)/2
+. Difficulty = Medium 
+. link = https://leetcode.com/problems/count-number-of-homogenous-substrings/description/?envType=problem-list-v2&envId=strin
+
+2. Sum of Beauty of All Substrings => 
+. Topic = String
+. Approach/Algorithm = Brutes force  algorithm
+. Difficulty = Medium 
+. link = https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/?envType=problem-list-v2&envId=string
+
+3. Zigzag Conversion =>
+. Topic = String
+. Approach/Algorithm = 
+. Difficulty = Medium 
+. link = https://leetcode.com/problems/zigzag-conversion/description/?envType=problem-list-v2&envId=string
+
+ 4. Count and Say =>
+. Topic = String
+. Approach/Algorithm = (1) Iterative stringBuilder (2) recursion 
+. Difficulty = Medium 
+. link = https://leetcode.com/problems/count-and-say/description/?envType=problem-list-v2&envId=string
 
