@@ -1,1 +1,7 @@
 
+1. Multiply Strings
+. Topic = String
+. Approach/Algorithm =  Karatsuba Multiplication Algorithm (Divide & Conquer) and Optimal Approach: Simulate Manual Multiplication
+                    
+. Difficulty = Medium
+. link = https://leetcode.com/problems/multiply-strings/description/?envType=problem-list-v2&envId=string
